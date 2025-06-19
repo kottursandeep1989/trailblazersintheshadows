@@ -1,0 +1,17 @@
+
+title: Trailblazers in the Shadows
+description: Honoring lesser-known women who changed the world.
+baseurl: ""
+url: "https://kottursandeep1989.github.io"
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Anonymous
